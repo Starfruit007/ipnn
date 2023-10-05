@@ -1,0 +1,263 @@
+python3 demo_mnist.py --mnist_data_path ./ --num_epoch 5 --split_shape 2 10 --train_epsilon 1e-6
+
+Round 1/10 modelling:
+ epoch 1/5 - curr/avg acc: 0.843750/0.700067                - curr/avg loss: 0.444628/0.759509, [  938/  938]
+
+ prediction - curr/avg acc: 0.875000/0.828100                    - curr/avg unique acc: 0.649123/0.738903, [   79/   79]
+
+ epoch 2/5 - curr/avg acc: 1.000000/0.923200                - curr/avg loss: 0.084918/0.263431, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.930600                    - curr/avg unique acc: 1.000000/0.850204, [   79/   79]
+
+ epoch 3/5 - curr/avg acc: 0.968750/0.956000                - curr/avg loss: 0.134605/0.169999, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.946800                    - curr/avg unique acc: 1.000000/0.884291, [   79/   79]
+
+ epoch 4/5 - curr/avg acc: 1.000000/0.965450                - curr/avg loss: 0.054684/0.135035, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.953800                    - curr/avg unique acc: 1.000000/0.890509, [   79/   79]
+
+ epoch 5/5 - curr/avg acc: 0.968750/0.970467                - curr/avg loss: 0.191683/0.114795, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.954700                    - curr/avg unique acc: 1.000000/0.895981, [   79/   79]
+
+unsupervised cluster results of random variable 0 is:
+     0     1     2     3    4    5    6    7    8    9
+0  972    13    10     9  955   12  936  995   16  966
+1    8  1122  1022  1001   27  880   22   33  958   43
+accs: [0.9547], mean: 0.9547, std: 0.0.
+Round 2/10 modelling:
+ epoch 1/5 - curr/avg acc: 0.875000/0.696100                - curr/avg loss: 0.435975/0.771016, [  938/  938]
+
+ prediction - curr/avg acc: 0.875000/0.912500                    - curr/avg unique acc: 0.714286/0.793733, [   79/   79]
+
+ epoch 2/5 - curr/avg acc: 0.875000/0.941100                - curr/avg loss: 0.385575/0.223232, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.941200                    - curr/avg unique acc: 1.000000/0.856674, [   79/   79]
+
+ epoch 3/5 - curr/avg acc: 0.937500/0.960450                - curr/avg loss: 0.139321/0.154482, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.946000                    - curr/avg unique acc: 1.000000/0.876419, [   79/   79]
+
+ epoch 4/5 - curr/avg acc: 1.000000/0.967533                - curr/avg loss: 0.029378/0.125027, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.955900                    - curr/avg unique acc: 1.000000/0.896658, [   79/   79]
+
+ epoch 5/5 - curr/avg acc: 0.968750/0.974367                - curr/avg loss: 0.091024/0.099627, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.961400                    - curr/avg unique acc: 1.000000/0.908604, [   79/   79]
+
+unsupervised cluster results of random variable 0 is:
+     0     1     2    3    4    5    6     7    8    9
+0  972    32  1000  998   11  883  944    21  953   26
+1    8  1103    32   12  971    9   14  1007   21  983
+accs: [0.9547, 0.9614], mean: 0.9580500000000001, std: 0.0033500000000000196.
+Round 3/10 modelling:
+ epoch 1/5 - curr/avg acc: 0.906250/0.806517                - curr/avg loss: 0.318826/0.583514, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.914900                    - curr/avg unique acc: 1.000000/0.824611, [   79/   79]
+
+ epoch 2/5 - curr/avg acc: 0.937500/0.943200                - curr/avg loss: 0.183136/0.216941, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.940500                    - curr/avg unique acc: 1.000000/0.880936, [   79/   79]
+
+ epoch 3/5 - curr/avg acc: 0.968750/0.960733                - curr/avg loss: 0.137383/0.150963, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.952100                    - curr/avg unique acc: 1.000000/0.897430, [   79/   79]
+
+ epoch 4/5 - curr/avg acc: 0.968750/0.970967                - curr/avg loss: 0.172409/0.116212, [  938/  938]
+
+ prediction - curr/avg acc: 0.937500/0.954100                    - curr/avg unique acc: 0.848485/0.907869, [   79/   79]
+
+ epoch 5/5 - curr/avg acc: 0.968750/0.975500                - curr/avg loss: 0.137799/0.095860, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.958900                    - curr/avg unique acc: 1.000000/0.910877, [   79/   79]
+
+unsupervised cluster results of random variable 0 is:
+     0     1     2    3    4    5    6    7    8    9
+0    6  1122    14   11  972   13   14  997    9  965
+1  974    13  1018  999   10  879  944   31  965   44
+accs: [0.9547, 0.9614, 0.9589], mean: 0.9583333333333334, std: 0.0027644569488820578.
+Round 4/10 modelling:
+ epoch 1/5 - curr/avg acc: 0.906250/0.738483                - curr/avg loss: 0.358658/0.708084, [  938/  938]
+
+ prediction - curr/avg acc: 0.875000/0.903700                    - curr/avg unique acc: 0.696970/0.770588, [   79/   79]
+
+ epoch 2/5 - curr/avg acc: 0.968750/0.939717                - curr/avg loss: 0.231252/0.228067, [  938/  938]
+
+ prediction - curr/avg acc: 0.937500/0.936700                    - curr/avg unique acc: 0.824561/0.854058, [   79/   79]
+
+ epoch 3/5 - curr/avg acc: 0.968750/0.957617                - curr/avg loss: 0.203628/0.161130, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.943600                    - curr/avg unique acc: 1.000000/0.853618, [   79/   79]
+
+ epoch 4/5 - curr/avg acc: 0.968750/0.966350                - curr/avg loss: 0.091861/0.127533, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.953500                    - curr/avg unique acc: 1.000000/0.887591, [   79/   79]
+
+ epoch 5/5 - curr/avg acc: 0.937500/0.972183                - curr/avg loss: 0.234627/0.106895, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.955500                    - curr/avg unique acc: 1.000000/0.895076, [   79/   79]
+
+unsupervised cluster results of random variable 0 is:
+     0     1    2     3    4    5    6    7    8    9
+0    6  1116  941     5  971    6  873   40    6  924
+1  974    19   91  1005   11  886   85  988  968   85
+accs: [0.9547, 0.9614, 0.9589, 0.9555], mean: 0.957625, std: 0.0026901440481877617.
+Round 5/10 modelling:
+ epoch 1/5 - curr/avg acc: 0.875000/0.776417                - curr/avg loss: 0.305923/0.632854, [  938/  938]
+
+ prediction - curr/avg acc: 0.875000/0.902500                    - curr/avg unique acc: 0.696970/0.783055, [   79/   79]
+
+ epoch 2/5 - curr/avg acc: 0.906250/0.936833                - curr/avg loss: 0.287927/0.236212, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.939400                    - curr/avg unique acc: 0.904762/0.836666, [   79/   79]
+
+ epoch 3/5 - curr/avg acc: 0.937500/0.955250                - curr/avg loss: 0.209940/0.169504, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.946700                    - curr/avg unique acc: 1.000000/0.883194, [   79/   79]
+
+ epoch 4/5 - curr/avg acc: 0.968750/0.964200                - curr/avg loss: 0.146464/0.135207, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.947100                    - curr/avg unique acc: 1.000000/0.890683, [   79/   79]
+
+ epoch 5/5 - curr/avg acc: 1.000000/0.970233                - curr/avg loss: 0.066857/0.112899, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.958800                    - curr/avg unique acc: 1.000000/0.908443, [   79/   79]
+
+unsupervised cluster results of random variable 0 is:
+     0     1    2    3    4    5    6     7    8     9
+0    6  1125   35  987  969  881   18  1013  944  1002
+1  974    10  997   23   13   11  940    15   30     7
+accs: [0.9547, 0.9614, 0.9589, 0.9555, 0.9588], mean: 0.9578599999999999, std: 0.0024516117147705147.
+Round 6/10 modelling:
+ epoch 1/5 - curr/avg acc: 0.937500/0.755033                - curr/avg loss: 0.319140/0.670814, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.912200                    - curr/avg unique acc: 1.000000/0.795726, [   79/   79]
+
+ epoch 2/5 - curr/avg acc: 0.968750/0.938733                - curr/avg loss: 0.110599/0.232333, [  938/  938]
+
+ prediction - curr/avg acc: 0.937500/0.937900                    - curr/avg unique acc: 0.824561/0.857238, [   79/   79]
+
+ epoch 3/5 - curr/avg acc: 0.968750/0.957367                - curr/avg loss: 0.199888/0.159427, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.945900                    - curr/avg unique acc: 1.000000/0.881446, [   79/   79]
+
+ epoch 4/5 - curr/avg acc: 0.968750/0.966750                - curr/avg loss: 0.080984/0.125734, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.945100                    - curr/avg unique acc: 1.000000/0.894715, [   79/   79]
+
+ epoch 5/5 - curr/avg acc: 0.968750/0.972100                - curr/avg loss: 0.134871/0.105923, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.948200                    - curr/avg unique acc: 1.000000/0.897636, [   79/   79]
+
+unsupervised cluster results of random variable 0 is:
+     0     1    2    3    4    5    6     7    8    9
+0   10  1123   74   16  982   21  917  1017   53  981
+1  970    12  958  994    0  871   41    11  921   28
+accs: [0.9547, 0.9614, 0.9589, 0.9555, 0.9588, 0.9482], mean: 0.9562499999999999, std: 0.004239005386487091.
+Round 7/10 modelling:
+ epoch 1/5 - curr/avg acc: 0.781250/0.618117                - curr/avg loss: 0.695598/0.887941, [  938/  938]
+
+ prediction - curr/avg acc: 0.750000/0.748400                    - curr/avg unique acc: 0.645390/0.680025, [   79/   79]
+
+ epoch 2/5 - curr/avg acc: 0.906250/0.860083                - curr/avg loss: 0.259339/0.377033, [  938/  938]
+
+ prediction - curr/avg acc: 0.812500/0.905800                    - curr/avg unique acc: 0.642857/0.823542, [   79/   79]
+
+ epoch 3/5 - curr/avg acc: 0.968750/0.946683                - curr/avg loss: 0.107822/0.194674, [  938/  938]
+
+ prediction - curr/avg acc: 0.937500/0.941400                    - curr/avg unique acc: 0.824561/0.880721, [   79/   79]
+
+ epoch 4/5 - curr/avg acc: 0.937500/0.962950                - curr/avg loss: 0.198022/0.141360, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.947900                    - curr/avg unique acc: 1.000000/0.894310, [   79/   79]
+
+ epoch 5/5 - curr/avg acc: 0.968750/0.969367                - curr/avg loss: 0.069152/0.114567, [  938/  938]
+
+ prediction - curr/avg acc: 0.937500/0.945300                    - curr/avg unique acc: 0.848485/0.889049, [   79/   79]
+
+unsupervised cluster results of random variable 0 is:
+     0     1     2    3    4    5    6    7    8    9
+0    5  1102    18  998    8  868    7  968  939  941
+1  975    33  1014   12  974   24  951   60   35   68
+accs: [0.9547, 0.9614, 0.9589, 0.9555, 0.9588, 0.9482, 0.9453], mean: 0.9546857142857144, std: 0.0054848957722688696.
+Round 8/10 modelling:
+ epoch 1/5 - curr/avg acc: 0.875000/0.725767                - curr/avg loss: 0.422892/0.723097, [  938/  938]
+
+ prediction - curr/avg acc: 0.875000/0.915700                    - curr/avg unique acc: 0.649123/0.813954, [   79/   79]
+
+ epoch 2/5 - curr/avg acc: 0.937500/0.938233                - curr/avg loss: 0.209991/0.236464, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.938900                    - curr/avg unique acc: 1.000000/0.848537, [   79/   79]
+
+ epoch 3/5 - curr/avg acc: 1.000000/0.954383                - curr/avg loss: 0.059444/0.175868, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.941100                    - curr/avg unique acc: 0.904762/0.867247, [   79/   79]
+
+ epoch 4/5 - curr/avg acc: 0.937500/0.962150                - curr/avg loss: 0.254450/0.143265, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.951300                    - curr/avg unique acc: 1.000000/0.887727, [   79/   79]
+
+ epoch 5/5 - curr/avg acc: 0.968750/0.968567                - curr/avg loss: 0.180774/0.120038, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.956400                    - curr/avg unique acc: 1.000000/0.901425, [   79/   79]
+
+unsupervised cluster results of random variable 0 is:
+     0     1    2    3    4    5    6     7    8    9
+0  973     5  983   14  972   18  929    25   65  973
+1    7  1130   49  996   10  874   29  1003  909   36
+accs: [0.9547, 0.9614, 0.9589, 0.9555, 0.9588, 0.9482, 0.9453, 0.9564], mean: 0.9549000000000001, std: 0.005161879502661786.
+Round 9/10 modelling:
+ epoch 1/5 - curr/avg acc: 0.781250/0.685167                - curr/avg loss: 0.359085/0.791407, [  938/  938]
+
+ prediction - curr/avg acc: 0.687500/0.834700                    - curr/avg unique acc: 0.503546/0.739325, [   79/   79]
+
+ epoch 2/5 - curr/avg acc: 0.968750/0.917933                - curr/avg loss: 0.142225/0.268027, [  938/  938]
+
+ prediction - curr/avg acc: 0.937500/0.924300                    - curr/avg unique acc: 0.824561/0.813915, [   79/   79]
+
+ epoch 3/5 - curr/avg acc: 0.968750/0.955667                - curr/avg loss: 0.092380/0.167673, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.947300                    - curr/avg unique acc: 1.000000/0.858923, [   79/   79]
+
+ epoch 4/5 - curr/avg acc: 0.968750/0.966117                - curr/avg loss: 0.132740/0.128758, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.952400                    - curr/avg unique acc: 1.000000/0.859172, [   79/   79]
+
+ epoch 5/5 - curr/avg acc: 0.937500/0.970883                - curr/avg loss: 0.196046/0.110754, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.956500                    - curr/avg unique acc: 0.904762/0.869686, [   79/   79]
+
+unsupervised cluster results of random variable 0 is:
+     0     1     2     3    4    5    6     7    8    9
+0   20  1115    13     9  967    9  910  1010   18  970
+1  960    20  1019  1001   15  883   48    18  956   39
+accs: [0.9547, 0.9614, 0.9589, 0.9555, 0.9588, 0.9482, 0.9453, 0.9564, 0.9565], mean: 0.9550777777777779, std: 0.0048925743684298945.
+Round 10/10 modelling:
+ epoch 1/5 - curr/avg acc: 0.875000/0.773617                - curr/avg loss: 0.463268/0.647611, [  938/  938]
+
+ prediction - curr/avg acc: 0.937500/0.913900                    - curr/avg unique acc: 0.904762/0.819864, [   79/   79]
+
+ epoch 2/5 - curr/avg acc: 0.968750/0.942700                - curr/avg loss: 0.198085/0.220327, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.935300                    - curr/avg unique acc: 0.904762/0.859999, [   79/   79]
+
+ epoch 3/5 - curr/avg acc: 0.937500/0.958300                - curr/avg loss: 0.194334/0.159477, [  938/  938]
+
+ prediction - curr/avg acc: 0.937500/0.948500                    - curr/avg unique acc: 0.904762/0.893985, [   79/   79]
+
+ epoch 4/5 - curr/avg acc: 1.000000/0.967450                - curr/avg loss: 0.079595/0.127210, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.950400                    - curr/avg unique acc: 1.000000/0.900483, [   79/   79]
+
+ epoch 5/5 - curr/avg acc: 1.000000/0.971967                - curr/avg loss: 0.060126/0.107435, [  938/  938]
+
+ prediction - curr/avg acc: 1.000000/0.947000                    - curr/avg unique acc: 1.000000/0.886723, [   79/   79]
+
+unsupervised cluster results of random variable 0 is:
+     0     1     2    3    4    5    6     7    8    9
+0  976  1107  1016  997   14   29   22  1010   67   23
+1    4    28    16   13  968  863  936    18  907  986
+accs: [0.9547, 0.9614, 0.9589, 0.9555, 0.9588, 0.9482, 0.9453, 0.9564, 0.9565, 0.947], mean: 0.95427, std: 0.005236038578925866.
+hello world~

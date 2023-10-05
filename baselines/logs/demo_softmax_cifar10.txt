@@ -1,0 +1,441 @@
+Round 1/10 modelling:
+Files already downloaded and verified
+Files already downloaded and verified
+ epoch 1/10 - curr/avg acc: 0.625000/0.758260                - curr/avg loss: 0.709833/0.872217, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.815400                    - curr/avg unique acc: 0.520295/0.637686, [   79/   79]
+
+ epoch 2/10 - curr/avg acc: 0.875000/0.862860                - curr/avg loss: 0.296191/0.531201, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.841300                    - curr/avg unique acc: 0.696010/0.688494, [   79/   79]
+
+ epoch 3/10 - curr/avg acc: 0.937500/0.902420                - curr/avg loss: 0.210758/0.390756, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.846600                    - curr/avg unique acc: 0.569191/0.705609, [   79/   79]
+
+ epoch 4/10 - curr/avg acc: 1.000000/0.931560                - curr/avg loss: 0.081890/0.281712, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.852100                    - curr/avg unique acc: 0.457580/0.704598, [   79/   79]
+
+ epoch 5/10 - curr/avg acc: 0.937500/0.957380                - curr/avg loss: 0.249151/0.189555, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.856200                    - curr/avg unique acc: 0.641363/0.713879, [   79/   79]
+
+ epoch 6/10 - curr/avg acc: 1.000000/0.973060                - curr/avg loss: 0.013868/0.124941, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.861900                    - curr/avg unique acc: 0.476744/0.725145, [   79/   79]
+
+ epoch 7/10 - curr/avg acc: 1.000000/0.980060                - curr/avg loss: 0.008341/0.092790, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.860000                    - curr/avg unique acc: 0.476744/0.722295, [   79/   79]
+
+ epoch 8/10 - curr/avg acc: 1.000000/0.984300                - curr/avg loss: 0.032702/0.071680, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.855500                    - curr/avg unique acc: 0.544015/0.712897, [   79/   79]
+
+ epoch 9/10 - curr/avg acc: 0.937500/0.986780                - curr/avg loss: 0.124658/0.059736, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.854700                    - curr/avg unique acc: 0.476744/0.712131, [   79/   79]
+
+ epoch 10/10 - curr/avg acc: 1.000000/0.988320                - curr/avg loss: 0.003643/0.054699, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.856300                    - curr/avg unique acc: 0.476744/0.714681, [   79/   79]
+
+accs: [0.8563], mean: 0.8563, std: 0.0.
+Round 2/10 modelling:
+Files already downloaded and verified
+Files already downloaded and verified
+ epoch 1/10 - curr/avg acc: 0.812500/0.740740                - curr/avg loss: 0.314830/0.924034, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.817600                    - curr/avg unique acc: 0.476744/0.645494, [   79/   79]
+
+ epoch 2/10 - curr/avg acc: 0.937500/0.862060                - curr/avg loss: 0.162311/0.537556, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.835300                    - curr/avg unique acc: 0.476744/0.679827, [   79/   79]
+
+ epoch 3/10 - curr/avg acc: 1.000000/0.898540                - curr/avg loss: 0.088855/0.399391, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.845900                    - curr/avg unique acc: 0.641363/0.698868, [   79/   79]
+
+ epoch 4/10 - curr/avg acc: 0.875000/0.929960                - curr/avg loss: 0.239708/0.287537, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.855200                    - curr/avg unique acc: 0.476744/0.711647, [   79/   79]
+
+ epoch 5/10 - curr/avg acc: 0.937500/0.951700                - curr/avg loss: 0.194476/0.203345, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.857000                    - curr/avg unique acc: 0.476744/0.716670, [   79/   79]
+
+ epoch 6/10 - curr/avg acc: 0.937500/0.970840                - curr/avg loss: 0.242440/0.132805, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.858900                    - curr/avg unique acc: 0.476744/0.718728, [   79/   79]
+
+ epoch 7/10 - curr/avg acc: 0.812500/0.979440                - curr/avg loss: 0.348262/0.095210, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.852100                    - curr/avg unique acc: 0.641363/0.703848, [   79/   79]
+
+ epoch 8/10 - curr/avg acc: 0.937500/0.984380                - curr/avg loss: 0.092143/0.072531, [  782/  782]
+
+ prediction - curr/avg acc: 0.625000/0.853100                    - curr/avg unique acc: 0.354453/0.706546, [   79/   79]
+
+ epoch 9/10 - curr/avg acc: 1.000000/0.986220                - curr/avg loss: 0.019445/0.063088, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.866100                    - curr/avg unique acc: 0.476744/0.729872, [   79/   79]
+
+ epoch 10/10 - curr/avg acc: 0.937500/0.990200                - curr/avg loss: 0.159752/0.045687, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.853600                    - curr/avg unique acc: 0.476744/0.708174, [   79/   79]
+
+accs: [0.8563, 0.8536], mean: 0.85495, std: 0.0013499999999999623.
+Round 3/10 modelling:
+Files already downloaded and verified
+Files already downloaded and verified
+ epoch 1/10 - curr/avg acc: 0.750000/0.747200                - curr/avg loss: 0.583273/0.908434, [  782/  782]
+
+ prediction - curr/avg acc: 0.625000/0.814200                    - curr/avg unique acc: 0.457580/0.636433, [   79/   79]
+
+ epoch 2/10 - curr/avg acc: 0.875000/0.862740                - curr/avg loss: 0.213945/0.533127, [  782/  782]
+
+ prediction - curr/avg acc: 0.625000/0.835100                    - curr/avg unique acc: 0.457580/0.680367, [   79/   79]
+
+ epoch 3/10 - curr/avg acc: 0.937500/0.902860                - curr/avg loss: 0.222058/0.391728, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.844500                    - curr/avg unique acc: 0.641363/0.691373, [   79/   79]
+
+ epoch 4/10 - curr/avg acc: 0.937500/0.932260                - curr/avg loss: 0.201590/0.282258, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.853800                    - curr/avg unique acc: 0.641363/0.709928, [   79/   79]
+
+ epoch 5/10 - curr/avg acc: 0.937500/0.955260                - curr/avg loss: 0.145579/0.194148, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.854900                    - curr/avg unique acc: 0.476744/0.714730, [   79/   79]
+
+ epoch 6/10 - curr/avg acc: 1.000000/0.973420                - curr/avg loss: 0.017874/0.125595, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.859900                    - curr/avg unique acc: 0.544015/0.720132, [   79/   79]
+
+ epoch 7/10 - curr/avg acc: 1.000000/0.982820                - curr/avg loss: 0.025457/0.085111, [  782/  782]
+
+ prediction - curr/avg acc: 0.625000/0.855300                    - curr/avg unique acc: 0.412533/0.712992, [   79/   79]
+
+ epoch 8/10 - curr/avg acc: 0.937500/0.985580                - curr/avg loss: 0.096680/0.069336, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.859900                    - curr/avg unique acc: 0.641363/0.721416, [   79/   79]
+
+ epoch 9/10 - curr/avg acc: 1.000000/0.986560                - curr/avg loss: 0.024475/0.060112, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.858200                    - curr/avg unique acc: 0.641363/0.717754, [   79/   79]
+
+ epoch 10/10 - curr/avg acc: 1.000000/0.990360                - curr/avg loss: 0.041551/0.046795, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.859300                    - curr/avg unique acc: 0.569191/0.719255, [   79/   79]
+
+accs: [0.8563, 0.8536, 0.8593], mean: 0.8563999999999999, std: 0.002328089345364534.
+Round 4/10 modelling:
+Files already downloaded and verified
+Files already downloaded and verified
+ epoch 1/10 - curr/avg acc: 0.937500/0.748460                - curr/avg loss: 0.269155/0.895532, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.819800                    - curr/avg unique acc: 0.641363/0.653850, [   79/   79]
+
+ epoch 2/10 - curr/avg acc: 0.937500/0.862520                - curr/avg loss: 0.193426/0.531416, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.835800                    - curr/avg unique acc: 0.641363/0.681145, [   79/   79]
+
+ epoch 3/10 - curr/avg acc: 0.875000/0.902480                - curr/avg loss: 0.222216/0.389989, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.854900                    - curr/avg unique acc: 0.641363/0.712609, [   79/   79]
+
+ epoch 4/10 - curr/avg acc: 0.937500/0.932780                - curr/avg loss: 0.169506/0.279749, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.859600                    - curr/avg unique acc: 0.641363/0.719468, [   79/   79]
+
+ epoch 5/10 - curr/avg acc: 0.937500/0.954180                - curr/avg loss: 0.188482/0.197709, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.858700                    - curr/avg unique acc: 0.725849/0.720205, [   79/   79]
+
+ epoch 6/10 - curr/avg acc: 1.000000/0.970960                - curr/avg loss: 0.030240/0.132159, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.862200                    - curr/avg unique acc: 0.641363/0.727311, [   79/   79]
+
+ epoch 7/10 - curr/avg acc: 0.937500/0.982200                - curr/avg loss: 0.086933/0.086715, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.859400                    - curr/avg unique acc: 0.641363/0.720070, [   79/   79]
+
+ epoch 8/10 - curr/avg acc: 1.000000/0.984340                - curr/avg loss: 0.030606/0.073286, [  782/  782]
+
+ prediction - curr/avg acc: 0.812500/0.859600                    - curr/avg unique acc: 0.696010/0.721376, [   79/   79]
+
+ epoch 9/10 - curr/avg acc: 1.000000/0.987800                - curr/avg loss: 0.000727/0.056858, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.865600                    - curr/avg unique acc: 0.520295/0.732389, [   79/   79]
+
+ epoch 10/10 - curr/avg acc: 1.000000/0.986660                - curr/avg loss: 0.001137/0.057988, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.835800                    - curr/avg unique acc: 0.476744/0.672904, [   79/   79]
+
+accs: [0.8563, 0.8536, 0.8593, 0.8358], mean: 0.85125, std: 0.009145080644805698.
+Round 5/10 modelling:
+Files already downloaded and verified
+Files already downloaded and verified
+ epoch 1/10 - curr/avg acc: 0.750000/0.725620                - curr/avg loss: 0.367199/0.963135, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.811200                    - curr/avg unique acc: 0.437707/0.633531, [   79/   79]
+
+ epoch 2/10 - curr/avg acc: 0.625000/0.857740                - curr/avg loss: 0.908098/0.551935, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.837900                    - curr/avg unique acc: 0.437707/0.682531, [   79/   79]
+
+ epoch 3/10 - curr/avg acc: 0.937500/0.896420                - curr/avg loss: 0.196101/0.408470, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.847500                    - curr/avg unique acc: 0.624478/0.700662, [   79/   79]
+
+ epoch 4/10 - curr/avg acc: 0.937500/0.929100                - curr/avg loss: 0.166453/0.293115, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.849200                    - curr/avg unique acc: 0.595960/0.708493, [   79/   79]
+
+ epoch 5/10 - curr/avg acc: 1.000000/0.951720                - curr/avg loss: 0.071782/0.204435, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.854700                    - curr/avg unique acc: 0.641363/0.712729, [   79/   79]
+
+ epoch 6/10 - curr/avg acc: 0.875000/0.970640                - curr/avg loss: 0.187409/0.135584, [  782/  782]
+
+ prediction - curr/avg acc: 0.812500/0.858500                    - curr/avg unique acc: 0.696010/0.720837, [   79/   79]
+
+ epoch 7/10 - curr/avg acc: 1.000000/0.981860                - curr/avg loss: 0.008778/0.088701, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.852800                    - curr/avg unique acc: 0.641363/0.706424, [   79/   79]
+
+ epoch 8/10 - curr/avg acc: 1.000000/0.985780                - curr/avg loss: 0.011673/0.067371, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.856300                    - curr/avg unique acc: 0.412533/0.714609, [   79/   79]
+
+ epoch 9/10 - curr/avg acc: 1.000000/0.985800                - curr/avg loss: 0.024650/0.064670, [  782/  782]
+
+ prediction - curr/avg acc: 0.625000/0.862900                    - curr/avg unique acc: 0.392020/0.725710, [   79/   79]
+
+ epoch 10/10 - curr/avg acc: 1.000000/0.987900                - curr/avg loss: 0.040064/0.055620, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.846500                    - curr/avg unique acc: 0.641363/0.696458, [   79/   79]
+
+accs: [0.8563, 0.8536, 0.8593, 0.8358, 0.8465], mean: 0.8503000000000001, std: 0.008397380543955345.
+Round 6/10 modelling:
+Files already downloaded and verified
+Files already downloaded and verified
+ epoch 1/10 - curr/avg acc: 0.875000/0.750340                - curr/avg loss: 0.236400/0.897002, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.819500                    - curr/avg unique acc: 0.520295/0.646025, [   79/   79]
+
+ epoch 2/10 - curr/avg acc: 0.750000/0.861600                - curr/avg loss: 0.794205/0.534640, [  782/  782]
+
+ prediction - curr/avg acc: 0.812500/0.834100                    - curr/avg unique acc: 0.696010/0.678503, [   79/   79]
+
+ epoch 3/10 - curr/avg acc: 0.937500/0.901740                - curr/avg loss: 0.200837/0.392787, [  782/  782]
+
+ prediction - curr/avg acc: 0.875000/0.851400                    - curr/avg unique acc: 0.791377/0.709952, [   79/   79]
+
+ epoch 4/10 - curr/avg acc: 0.937500/0.932580                - curr/avg loss: 0.152858/0.281201, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.848700                    - curr/avg unique acc: 0.696010/0.703382, [   79/   79]
+
+ epoch 5/10 - curr/avg acc: 0.937500/0.956500                - curr/avg loss: 0.102986/0.192449, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.857900                    - curr/avg unique acc: 0.544015/0.715806, [   79/   79]
+
+ epoch 6/10 - curr/avg acc: 1.000000/0.972460                - curr/avg loss: 0.114200/0.127404, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.860900                    - curr/avg unique acc: 0.544015/0.724902, [   79/   79]
+
+ epoch 7/10 - curr/avg acc: 0.937500/0.982740                - curr/avg loss: 0.090913/0.084667, [  782/  782]
+
+ prediction - curr/avg acc: 0.812500/0.853800                    - curr/avg unique acc: 0.696010/0.712148, [   79/   79]
+
+ epoch 8/10 - curr/avg acc: 1.000000/0.987200                - curr/avg loss: 0.000756/0.063846, [  782/  782]
+
+ prediction - curr/avg acc: 0.812500/0.861000                    - curr/avg unique acc: 0.696010/0.724193, [   79/   79]
+
+ epoch 9/10 - curr/avg acc: 1.000000/0.985760                - curr/avg loss: 0.009145/0.062369, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.858500                    - curr/avg unique acc: 0.544015/0.716670, [   79/   79]
+
+ epoch 10/10 - curr/avg acc: 1.000000/0.987540                - curr/avg loss: 0.001324/0.054628, [  782/  782]
+
+ prediction - curr/avg acc: 0.625000/0.865500                    - curr/avg unique acc: 0.412533/0.730818, [   79/   79]
+
+accs: [0.8563, 0.8536, 0.8593, 0.8358, 0.8465, 0.8655], mean: 0.8528333333333333, std: 0.009531643206825478.
+Round 7/10 modelling:
+Files already downloaded and verified
+Files already downloaded and verified
+ epoch 1/10 - curr/avg acc: 0.687500/0.747580                - curr/avg loss: 0.627780/0.907725, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.819900                    - curr/avg unique acc: 0.569191/0.653642, [   79/   79]
+
+ epoch 2/10 - curr/avg acc: 0.875000/0.858980                - curr/avg loss: 0.242380/0.537693, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.841500                    - curr/avg unique acc: 0.641363/0.686413, [   79/   79]
+
+ epoch 3/10 - curr/avg acc: 0.937500/0.901580                - curr/avg loss: 0.264899/0.391360, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.850200                    - curr/avg unique acc: 0.641363/0.701352, [   79/   79]
+
+ epoch 4/10 - curr/avg acc: 0.937500/0.933040                - curr/avg loss: 0.211361/0.280934, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.854000                    - curr/avg unique acc: 0.641363/0.708363, [   79/   79]
+
+ epoch 5/10 - curr/avg acc: 1.000000/0.955920                - curr/avg loss: 0.108002/0.193273, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.854000                    - curr/avg unique acc: 0.569191/0.714512, [   79/   79]
+
+ epoch 6/10 - curr/avg acc: 0.937500/0.972260                - curr/avg loss: 0.074281/0.128429, [  782/  782]
+
+ prediction - curr/avg acc: 0.812500/0.859200                    - curr/avg unique acc: 0.696010/0.720244, [   79/   79]
+
+ epoch 7/10 - curr/avg acc: 1.000000/0.980180                - curr/avg loss: 0.029918/0.093194, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.854300                    - curr/avg unique acc: 0.641363/0.710724, [   79/   79]
+
+ epoch 8/10 - curr/avg acc: 1.000000/0.986740                - curr/avg loss: 0.006001/0.063958, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.860700                    - curr/avg unique acc: 0.624478/0.725128, [   79/   79]
+
+ epoch 9/10 - curr/avg acc: 0.937500/0.989020                - curr/avg loss: 0.066888/0.053143, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.860600                    - curr/avg unique acc: 0.569191/0.721908, [   79/   79]
+
+ epoch 10/10 - curr/avg acc: 0.937500/0.986440                - curr/avg loss: 0.054691/0.059421, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.864900                    - curr/avg unique acc: 0.641363/0.730028, [   79/   79]
+
+accs: [0.8563, 0.8536, 0.8593, 0.8358, 0.8465, 0.8655, 0.8649], mean: 0.8545571428571428, std: 0.00978276285001287.
+Round 8/10 modelling:
+Files already downloaded and verified
+Files already downloaded and verified
+ epoch 1/10 - curr/avg acc: 0.937500/0.736160                - curr/avg loss: 0.252060/0.932201, [  782/  782]
+
+ prediction - curr/avg acc: 0.812500/0.813800                    - curr/avg unique acc: 0.696010/0.647722, [   79/   79]
+
+ epoch 2/10 - curr/avg acc: 0.875000/0.857500                - curr/avg loss: 0.332690/0.545233, [  782/  782]
+
+ prediction - curr/avg acc: 0.812500/0.829600                    - curr/avg unique acc: 0.654925/0.670100, [   79/   79]
+
+ epoch 3/10 - curr/avg acc: 0.937500/0.897020                - curr/avg loss: 0.264697/0.404757, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.850000                    - curr/avg unique acc: 0.641363/0.708332, [   79/   79]
+
+ epoch 4/10 - curr/avg acc: 0.937500/0.929460                - curr/avg loss: 0.092979/0.289410, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.854800                    - curr/avg unique acc: 0.476744/0.710516, [   79/   79]
+
+ epoch 5/10 - curr/avg acc: 0.875000/0.953800                - curr/avg loss: 0.170691/0.198484, [  782/  782]
+
+ prediction - curr/avg acc: 0.875000/0.855000                    - curr/avg unique acc: 0.791377/0.713782, [   79/   79]
+
+ epoch 6/10 - curr/avg acc: 0.937500/0.971360                - curr/avg loss: 0.297768/0.133352, [  782/  782]
+
+ prediction - curr/avg acc: 0.812500/0.859300                    - curr/avg unique acc: 0.725849/0.718465, [   79/   79]
+
+ epoch 7/10 - curr/avg acc: 1.000000/0.981420                - curr/avg loss: 0.023114/0.088927, [  782/  782]
+
+ prediction - curr/avg acc: 0.812500/0.862000                    - curr/avg unique acc: 0.696010/0.726109, [   79/   79]
+
+ epoch 8/10 - curr/avg acc: 0.937500/0.983860                - curr/avg loss: 0.179994/0.074762, [  782/  782]
+
+ prediction - curr/avg acc: 0.875000/0.859700                    - curr/avg unique acc: 0.791377/0.719438, [   79/   79]
+
+ epoch 9/10 - curr/avg acc: 1.000000/0.987480                - curr/avg loss: 0.000037/0.060052, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.855700                    - curr/avg unique acc: 0.725849/0.712168, [   79/   79]
+
+ epoch 10/10 - curr/avg acc: 0.937500/0.988360                - curr/avg loss: 0.107281/0.053434, [  782/  782]
+
+ prediction - curr/avg acc: 0.812500/0.865200                    - curr/avg unique acc: 0.696010/0.730141, [   79/   79]
+
+accs: [0.8563, 0.8536, 0.8593, 0.8358, 0.8465, 0.8655, 0.8649, 0.8652], mean: 0.8558875, std: 0.009804519047357702.
+Round 9/10 modelling:
+Files already downloaded and verified
+Files already downloaded and verified
+ epoch 1/10 - curr/avg acc: 0.875000/0.745660                - curr/avg loss: 0.348588/0.907921, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.811400                    - curr/avg unique acc: 0.641363/0.639151, [   79/   79]
+
+ epoch 2/10 - curr/avg acc: 1.000000/0.863460                - curr/avg loss: 0.144029/0.533266, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.838100                    - curr/avg unique acc: 0.569191/0.681080, [   79/   79]
+
+ epoch 3/10 - curr/avg acc: 0.937500/0.901940                - curr/avg loss: 0.183110/0.391527, [  782/  782]
+
+ prediction - curr/avg acc: 0.812500/0.853800                    - curr/avg unique acc: 0.696010/0.712341, [   79/   79]
+
+ epoch 4/10 - curr/avg acc: 1.000000/0.932920                - curr/avg loss: 0.056137/0.278751, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.858000                    - curr/avg unique acc: 0.476744/0.714808, [   79/   79]
+
+ epoch 5/10 - curr/avg acc: 1.000000/0.956680                - curr/avg loss: 0.053321/0.190092, [  782/  782]
+
+ prediction - curr/avg acc: 0.812500/0.855100                    - curr/avg unique acc: 0.696010/0.713058, [   79/   79]
+
+ epoch 6/10 - curr/avg acc: 1.000000/0.972640                - curr/avg loss: 0.024791/0.127280, [  782/  782]
+
+ prediction - curr/avg acc: 0.812500/0.850000                    - curr/avg unique acc: 0.696010/0.700221, [   79/   79]
+
+ epoch 7/10 - curr/avg acc: 1.000000/0.980800                - curr/avg loss: 0.029930/0.088914, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.860600                    - curr/avg unique acc: 0.641363/0.722864, [   79/   79]
+
+ epoch 8/10 - curr/avg acc: 1.000000/0.988220                - curr/avg loss: 0.023883/0.059045, [  782/  782]
+
+ prediction - curr/avg acc: 0.812500/0.861100                    - curr/avg unique acc: 0.696010/0.724395, [   79/   79]
+
+ epoch 9/10 - curr/avg acc: 1.000000/0.984520                - curr/avg loss: 0.021247/0.068174, [  782/  782]
+
+ prediction - curr/avg acc: 0.812500/0.857500                    - curr/avg unique acc: 0.696010/0.715886, [   79/   79]
+
+ epoch 10/10 - curr/avg acc: 1.000000/0.988840                - curr/avg loss: 0.036141/0.049718, [  782/  782]
+
+ prediction - curr/avg acc: 0.812500/0.860900                    - curr/avg unique acc: 0.696010/0.722753, [   79/   79]
+
+accs: [0.8563, 0.8536, 0.8593, 0.8358, 0.8465, 0.8655, 0.8649, 0.8652, 0.8609], mean: 0.8564444444444445, std: 0.00937705368452528.
+Round 10/10 modelling:
+Files already downloaded and verified
+Files already downloaded and verified
+ epoch 1/10 - curr/avg acc: 1.000000/0.753640                - curr/avg loss: 0.172848/0.885855, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.813600                    - curr/avg unique acc: 0.641363/0.643933, [   79/   79]
+
+ epoch 2/10 - curr/avg acc: 0.875000/0.861680                - curr/avg loss: 0.298533/0.531994, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.839000                    - curr/avg unique acc: 0.641363/0.682832, [   79/   79]
+
+ epoch 3/10 - curr/avg acc: 0.812500/0.901460                - curr/avg loss: 0.281304/0.393616, [  782/  782]
+
+ prediction - curr/avg acc: 0.812500/0.847500                    - curr/avg unique acc: 0.725849/0.697586, [   79/   79]
+
+ epoch 4/10 - curr/avg acc: 0.875000/0.932600                - curr/avg loss: 0.249590/0.281657, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.859200                    - curr/avg unique acc: 0.476744/0.716428, [   79/   79]
+
+ epoch 5/10 - curr/avg acc: 0.875000/0.955620                - curr/avg loss: 0.214435/0.193992, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.859100                    - curr/avg unique acc: 0.641363/0.716541, [   79/   79]
+
+ epoch 6/10 - curr/avg acc: 1.000000/0.969580                - curr/avg loss: 0.024746/0.135308, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.857800                    - curr/avg unique acc: 0.641363/0.714347, [   79/   79]
+
+ epoch 7/10 - curr/avg acc: 0.937500/0.979220                - curr/avg loss: 0.211425/0.095190, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.862100                    - curr/avg unique acc: 0.641363/0.723509, [   79/   79]
+
+ epoch 8/10 - curr/avg acc: 1.000000/0.985080                - curr/avg loss: 0.018368/0.072384, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.860100                    - curr/avg unique acc: 0.641363/0.720830, [   79/   79]
+
+ epoch 9/10 - curr/avg acc: 1.000000/0.987120                - curr/avg loss: 0.000945/0.058597, [  782/  782]
+
+ prediction - curr/avg acc: 0.750000/0.855600                    - curr/avg unique acc: 0.641363/0.711003, [   79/   79]
+
+ epoch 10/10 - curr/avg acc: 1.000000/0.988640                - curr/avg loss: 0.009108/0.051887, [  782/  782]
+
+ prediction - curr/avg acc: 0.687500/0.858900                    - curr/avg unique acc: 0.520295/0.719481, [   79/   79]
+
+accs: [0.8563, 0.8536, 0.8593, 0.8358, 0.8465, 0.8655, 0.8649, 0.8652, 0.8609, 0.8589], mean: 0.8566900000000001, std: 0.008926303826332598.
+hello world~

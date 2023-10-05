@@ -1,0 +1,243 @@
+python3 demo_binary2decimal.py  --num_epoch=2 --split_shape 2 2 2 2 2 2 2 2 2 2 --num_classes 1024 --train_batch_size 1024
+
+Round 1/10 modelling:
+with multi-degree classification task training: 
+classification classes is: 1024
+ epoch 1/2 - curr/avg acc: 1.000000/0.926834                - curr/avg loss: 0.000424/0.928418, [  500/  500]]]
+
+ prediction - curr/avg acc: 0.996094/0.996094                    - curr/avg unique acc: 1.000000/1.000000, [   40/   40]
+
+ epoch 2/2 - curr/avg acc: 1.000000/1.000000                - curr/avg loss: 0.000070/0.000175, [  500/  500]
+
+ prediction - curr/avg acc: 0.992188/0.995117                    - curr/avg unique acc: 1.000000/1.000000, [   40/   40]
+
+w/. multi... accs: [0.995117], mean: 0.995117, std: 0.0.
+
+ without multi-degree classification task training: 
+classification classes is: 1024
+ epoch 1/2 - curr/avg acc: 0.908203/0.831453                - curr/avg loss: 0.144516/0.655754, [  500/  500]
+
+ prediction - curr/avg acc: 0.898438/0.894531                    - curr/avg unique acc: 0.000000/0.903791, [   40/   40]
+
+ epoch 2/2 - curr/avg acc: 0.929688/0.929643                - curr/avg loss: 0.117103/0.122467, [  500/  500]
+
+ prediction - curr/avg acc: 0.902344/0.900391                    - curr/avg unique acc: 0.000000/0.905570, [   40/   40]
+
+w/o. multi... accs: [0.900391], mean: 0.900391, std: 0.0.
+Round 2/10 modelling:
+with multi-degree classification task training: 
+classification classes is: 1024
+ epoch 1/2 - curr/avg acc: 1.000000/0.924332                - curr/avg loss: 0.000529/0.898191, [  500/  500]]]
+
+ prediction - curr/avg acc: 0.984375/0.992188                    - curr/avg unique acc: 1.000000/1.000000, [   40/   40]
+
+ epoch 2/2 - curr/avg acc: 1.000000/1.000000                - curr/avg loss: 0.000087/0.000243, [  500/  500]
+
+ prediction - curr/avg acc: 0.996094/0.995117                    - curr/avg unique acc: 1.000000/1.000000, [   40/   40]
+
+w/. multi... accs: [0.995117, 0.995117], mean: 0.995117, std: 0.0.
+
+ without multi-degree classification task training: 
+classification classes is: 1024
+ epoch 1/2 - curr/avg acc: 0.836914/0.761510                - curr/avg loss: 0.317222/0.810043, [  500/  500]
+
+ prediction - curr/avg acc: 0.796875/0.754883                    - curr/avg unique acc: 0.000000/0.764177, [   40/   40]
+
+ epoch 2/2 - curr/avg acc: 0.824219/0.815123                - curr/avg loss: 0.303910/0.329842, [  500/  500]
+
+ prediction - curr/avg acc: 0.781250/0.754883                    - curr/avg unique acc: 0.000000/0.767364, [   40/   40]
+
+w/o. multi... accs: [0.900391, 0.754883], mean: 0.827637, std: 0.07275400000000004.
+Round 3/10 modelling:
+with multi-degree classification task training: 
+classification classes is: 1024
+ epoch 1/2 - curr/avg acc: 1.000000/0.908154                - curr/avg loss: 0.000575/1.314038, [  500/  500]]]
+
+ prediction - curr/avg acc: 0.988281/0.994141                    - curr/avg unique acc: 1.000000/1.000000, [   40/   40]
+
+ epoch 2/2 - curr/avg acc: 1.000000/1.000000                - curr/avg loss: 0.000198/0.000337, [  500/  500]
+
+ prediction - curr/avg acc: 0.992188/0.991211                    - curr/avg unique acc: 1.000000/1.000000, [   40/   40]
+
+w/. multi... accs: [0.995117, 0.995117, 0.991211], mean: 0.993815, std: 0.0018413060582098057.
+
+ without multi-degree classification task training: 
+classification classes is: 1024
+ epoch 1/2 - curr/avg acc: 0.836914/0.810854                - curr/avg loss: 0.270477/0.637636, [  500/  500]
+
+ prediction - curr/avg acc: 0.828125/0.815430                    - curr/avg unique acc: 0.000000/0.821498, [   40/   40]
+
+ epoch 2/2 - curr/avg acc: 0.848633/0.863105                - curr/avg loss: 0.248325/0.239200, [  500/  500]
+
+ prediction - curr/avg acc: 0.816406/0.816406                    - curr/avg unique acc: 0.000000/0.821498, [   40/   40]
+
+w/o. multi... accs: [0.900391, 0.754883, 0.816406], mean: 0.8238933333333334, std: 0.059638855546437955.
+Round 4/10 modelling:
+with multi-degree classification task training: 
+classification classes is: 1024
+ epoch 1/2 - curr/avg acc: 1.000000/0.947133                - curr/avg loss: 0.000972/0.787461, [  500/  500]]]
+
+ prediction - curr/avg acc: 0.992188/0.994141                    - curr/avg unique acc: 1.000000/1.000000, [   40/   40]
+
+ epoch 2/2 - curr/avg acc: 1.000000/1.000000                - curr/avg loss: 0.000296/0.000515, [  500/  500]
+
+ prediction - curr/avg acc: 0.996094/0.996094                    - curr/avg unique acc: 1.000000/1.000000, [   40/   40]
+
+w/. multi... accs: [0.995117, 0.995117, 0.991211, 0.996094], mean: 0.99438475, std: 0.0018752736300337947.
+
+ without multi-degree classification task training: 
+classification classes is: 1024
+ epoch 1/2 - curr/avg acc: 0.864258/0.802170                - curr/avg loss: 0.243482/0.689803, [  500/  500]
+
+ prediction - curr/avg acc: 0.804688/0.819336                    - curr/avg unique acc: 0.000000/0.821498, [   40/   40]
+
+ epoch 2/2 - curr/avg acc: 0.866211/0.863344                - curr/avg loss: 0.234652/0.239502, [  500/  500]
+
+ prediction - curr/avg acc: 0.785156/0.814453                    - curr/avg unique acc: 0.000000/0.821498, [   40/   40]
+
+w/o. multi... accs: [0.900391, 0.754883, 0.816406, 0.814453], mean: 0.82153325, std: 0.05181027695532521.
+Round 5/10 modelling:
+with multi-degree classification task training: 
+classification classes is: 1024
+ epoch 1/2 - curr/avg acc: 1.000000/0.943652                - curr/avg loss: 0.000557/0.793287, [  500/  500]]]
+
+ prediction - curr/avg acc: 0.988281/0.992188                    - curr/avg unique acc: 1.000000/1.000000, [   40/   40]
+
+ epoch 2/2 - curr/avg acc: 1.000000/1.000000                - curr/avg loss: 0.000061/0.000200, [  500/  500]
+
+ prediction - curr/avg acc: 0.996094/0.995117                    - curr/avg unique acc: 1.000000/1.000000, [   40/   40]
+
+w/. multi... accs: [0.995117, 0.995117, 0.991211, 0.996094, 0.995117], mean: 0.9945312000000002, std: 0.0017026777029138852.
+
+ without multi-degree classification task training: 
+classification classes is: 1024
+ epoch 1/2 - curr/avg acc: 0.803711/0.730313                - curr/avg loss: 0.389241/0.885748, [  500/  500]
+
+ prediction - curr/avg acc: 0.757812/0.716797                    - curr/avg unique acc: 0.000000/0.735456, [   40/   40]
+
+ epoch 2/2 - curr/avg acc: 0.792969/0.789270                - curr/avg loss: 0.378142/0.387262, [  500/  500]
+
+ prediction - curr/avg acc: 0.785156/0.727539                    - curr/avg unique acc: 0.000000/0.743783, [   40/   40]
+
+w/o. multi... accs: [0.900391, 0.754883, 0.816406, 0.814453, 0.727539], mean: 0.8027344, std: 0.05967437376160726.
+Round 6/10 modelling:
+with multi-degree classification task training: 
+classification classes is: 1024
+ epoch 1/2 - curr/avg acc: 1.000000/0.885984                - curr/avg loss: 0.000821/1.358083, [  500/  500]]]
+
+ prediction - curr/avg acc: 0.992188/0.990234                    - curr/avg unique acc: 1.000000/1.000000, [   40/   40]
+
+ epoch 2/2 - curr/avg acc: 1.000000/1.000000                - curr/avg loss: 0.000237/0.000442, [  500/  500]
+
+ prediction - curr/avg acc: 0.992188/0.993164                    - curr/avg unique acc: 1.000000/1.000000, [   40/   40]
+
+w/. multi... accs: [0.995117, 0.995117, 0.991211, 0.996094, 0.995117, 0.993164], mean: 0.9943033333333334, std: 0.0016357084771505886.
+
+ without multi-degree classification task training: 
+classification classes is: 1024
+ epoch 1/2 - curr/avg acc: 0.925781/0.839754                - curr/avg loss: 0.128796/0.575927, [  500/  500]
+
+ prediction - curr/avg acc: 0.886719/0.903320                    - curr/avg unique acc: 1.000000/0.905570, [   40/   40]
+
+ epoch 2/2 - curr/avg acc: 0.923828/0.929740                - curr/avg loss: 0.123529/0.120682, [  500/  500]
+
+ prediction - curr/avg acc: 0.875000/0.902344                    - curr/avg unique acc: 1.000000/0.905570, [   40/   40]
+
+w/o. multi... accs: [0.900391, 0.754883, 0.816406, 0.814453, 0.727539, 0.902344], mean: 0.819336, std: 0.06592109942448877.
+Round 7/10 modelling:
+with multi-degree classification task training: 
+classification classes is: 1024
+ epoch 1/2 - curr/avg acc: 1.000000/0.917092                - curr/avg loss: 0.000578/0.975285, [  500/  500]]]
+
+ prediction - curr/avg acc: 0.976562/0.988281                    - curr/avg unique acc: 1.000000/1.000000, [   40/   40]
+
+ epoch 2/2 - curr/avg acc: 1.000000/1.000000                - curr/avg loss: 0.000146/0.000282, [  500/  500]
+
+ prediction - curr/avg acc: 0.988281/0.991211                    - curr/avg unique acc: 1.000000/1.000000, [   40/   40]
+
+w/. multi... accs: [0.995117, 0.995117, 0.991211, 0.996094, 0.995117, 0.993164, 0.991211], mean: 0.9938615714285716, std: 0.001861247803962497.
+
+ without multi-degree classification task training: 
+classification classes is: 1024
+ epoch 1/2 - curr/avg acc: 0.818359/0.768943                - curr/avg loss: 0.343162/0.778980, [  500/  500]
+
+ prediction - curr/avg acc: 0.816406/0.768555                    - curr/avg unique acc: 0.000000/0.764177, [   40/   40]
+
+ epoch 2/2 - curr/avg acc: 0.825195/0.827445                - curr/avg loss: 0.320988/0.316029, [  500/  500]
+
+ prediction - curr/avg acc: 0.804688/0.766602                    - curr/avg unique acc: 0.000000/0.767364, [   40/   40]
+
+w/o. multi... accs: [0.900391, 0.754883, 0.816406, 0.814453, 0.727539, 0.902344, 0.766602], mean: 0.8118025714285714, std: 0.06375976679213748.
+Round 8/10 modelling:
+with multi-degree classification task training: 
+classification classes is: 1024
+ epoch 1/2 - curr/avg acc: 1.000000/0.937500                - curr/avg loss: 0.000746/0.718444, [  500/  500]]]
+
+ prediction - curr/avg acc: 0.992188/0.991211                    - curr/avg unique acc: 1.000000/1.000000, [   40/   40]
+
+ epoch 2/2 - curr/avg acc: 1.000000/1.000000                - curr/avg loss: 0.000202/0.000389, [  500/  500]
+
+ prediction - curr/avg acc: 1.000000/0.996094                    - curr/avg unique acc: 1.000000/1.000000, [   40/   40]
+
+w/. multi... accs: [0.995117, 0.995117, 0.991211, 0.996094, 0.995117, 0.993164, 0.991211, 0.996094], mean: 0.994140625, std: 0.0018911132262175929.
+
+ without multi-degree classification task training: 
+classification classes is: 1024
+ epoch 1/2 - curr/avg acc: 0.821289/0.767654                - curr/avg loss: 0.339199/0.786575, [  500/  500]
+
+ prediction - curr/avg acc: 0.812500/0.757812                    - curr/avg unique acc: 0.000000/0.777745, [   40/   40]
+
+ epoch 2/2 - curr/avg acc: 0.815430/0.823566                - curr/avg loss: 0.317225/0.313197, [  500/  500]
+
+ prediction - curr/avg acc: 0.800781/0.762695                    - curr/avg unique acc: 0.000000/0.783709, [   40/   40]
+
+w/o. multi... accs: [0.900391, 0.754883, 0.816406, 0.814453, 0.727539, 0.902344, 0.766602, 0.762695], mean: 0.8056641250000001, std: 0.061813494081869994.
+Round 9/10 modelling:
+with multi-degree classification task training: 
+classification classes is: 1024
+ epoch 1/2 - curr/avg acc: 1.000000/0.921936                - curr/avg loss: 0.001116/0.994245, [  500/  500]]]
+
+ prediction - curr/avg acc: 0.988281/0.987305                    - curr/avg unique acc: 1.000000/1.000000, [   40/   40]
+
+ epoch 2/2 - curr/avg acc: 1.000000/1.000000                - curr/avg loss: 0.000313/0.000590, [  500/  500]
+
+ prediction - curr/avg acc: 0.992188/0.990234                    - curr/avg unique acc: 1.000000/1.000000, [   40/   40]
+
+w/. multi... accs: [0.995117, 0.995117, 0.991211, 0.996094, 0.995117, 0.993164, 0.991211, 0.996094, 0.990234], mean: 0.9937065555555554, std: 0.0021647798508091505.
+
+ without multi-degree classification task training: 
+classification classes is: 1024
+ epoch 1/2 - curr/avg acc: 0.772461/0.724258                - curr/avg loss: 0.419923/0.910965, [  500/  500]
+
+ prediction - curr/avg acc: 0.707031/0.708008                    - curr/avg unique acc: 0.000000/0.708265, [   40/   40]
+
+ epoch 2/2 - curr/avg acc: 0.787109/0.779453                - curr/avg loss: 0.399704/0.410276, [  500/  500]
+
+ prediction - curr/avg acc: 0.722656/0.716797                    - curr/avg unique acc: 0.000000/0.714873, [   40/   40]
+
+w/o. multi... accs: [0.900391, 0.754883, 0.816406, 0.814453, 0.727539, 0.902344, 0.766602, 0.762695, 0.716797], mean: 0.79579, std: 0.06462468156809578.
+Round 10/10 modelling:
+with multi-degree classification task training: 
+classification classes is: 1024
+ epoch 1/2 - curr/avg acc: 1.000000/0.942990                - curr/avg loss: 0.000838/0.755787, [  500/  500]]]
+
+ prediction - curr/avg acc: 1.000000/0.995117                    - curr/avg unique acc: 1.000000/1.000000, [   40/   40]
+
+ epoch 2/2 - curr/avg acc: 1.000000/1.000000                - curr/avg loss: 0.000104/0.000348, [  500/  500]
+
+ prediction - curr/avg acc: 0.992188/0.995117                    - curr/avg unique acc: 1.000000/1.000000, [   40/   40]
+
+w/. multi... accs: [0.995117, 0.995117, 0.991211, 0.996094, 0.995117, 0.993164, 0.991211, 0.996094, 0.990234, 0.995117], mean: 0.9938475999999999, std: 0.0020968277087066887.
+
+ without multi-degree classification task training: 
+classification classes is: 1024
+ epoch 1/2 - curr/avg acc: 0.791016/0.722930                - curr/avg loss: 0.396678/0.893541, [  500/  500]
+
+ prediction - curr/avg acc: 0.707031/0.705078                    - curr/avg unique acc: 0.000000/0.714873, [   40/   40]
+
+ epoch 2/2 - curr/avg acc: 0.809570/0.775066                - curr/avg loss: 0.392281/0.412645, [  500/  500]
+
+ prediction - curr/avg acc: 0.750000/0.711914                    - curr/avg unique acc: 0.000000/0.719910, [   40/   40]
+
+w/o. multi... accs: [0.900391, 0.754883, 0.816406, 0.814453, 0.727539, 0.902344, 0.766602, 0.762695, 0.716797, 0.711914], mean: 0.7874024000000001, std: 0.0662712684716386.
+hello world~
